@@ -1,6 +1,6 @@
 # Advent of Code 2023 : Rust solutions
 
-This repo contains my solutions of Advent Of Code 2023 wrotten in Rust: https://adventofcode.com/2023
+This repo contains my solutions of Advent Of Code 2023 written in Rust: https://adventofcode.com/2023
 
 # Usage
 
